@@ -19,6 +19,7 @@ Built on [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agen
 ![Main Chat Window](docs/images/main_chat.png)
 ![LM Studio Panel](docs/images/lm_studio.png)
 ![Extensions Window](docs/images/extensions.png)
+![Permissions Panel](docs/images/permissions.png)
 
 ### Desktop GUI
 - Dark-themed Tkinter interface with chat, sidebar, and session management
